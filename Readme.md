@@ -1,4 +1,4 @@
-# Forecasting Github Issues
+# GitHub Issues Forecasting
 ![](TimeseriesForecastingDemo.gif)
 Forecast GitHub Repo issues using a LSTM model with Google Cloud and Docker integration.
 
